@@ -1,3 +1,4 @@
 first line edited
 commit change
 second line
+third line
